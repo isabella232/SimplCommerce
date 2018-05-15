@@ -162,3 +162,6 @@ $RECYCLE.BIN/
 src/Modules/**/launchSettings.json
 PublishProfiles/
 logs/
+
+# SonarQube for MSBuild results
+.sonarqube/
